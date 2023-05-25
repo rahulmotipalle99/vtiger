@@ -80,7 +80,7 @@ public class lead {
 	    
 	  
 	    driver.findElement(By.id("//span[text()='Atlas Jeniffer']")).click();
-	    driver.findElement(By.id("menubar_item_right_LBL_SIGN_OUT")).click();
+	   driver.findElement(By.id("menubar_item_right_LBL_SIGN_OUT"));
 	    
 	      
 	}
